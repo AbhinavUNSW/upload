@@ -1,0 +1,16 @@
+Public address of the key mac_miner:   0xdf9fA25433b5226d9791eb7B7F7b22FF10216Ab2
+Public address of the key raspi_1:   0xBb563A173f71e8EA4Cf4E39078207f25EEE4b1D4
+Public address of the key raspi_2:   0xe8fc8300B42b3426B050c08Fa7bE32C3aF40b014
+Public address of the key raspi_3:   0x5B6D5e300673a922b0Da93819A04F5c0784ab34b
+Public address of the key raspi_4:   0xE690E033A4Ef644DddAfdc9391D39a76472534Af
+Public address of the key raspi_5:   0xd4E06aF8bD114aa18c8E6093eDfd050230ca00a4
+Public address of the key raspi_6:   0x061AFD46B39E101d25d324BB6125EE0FcF080A04
+Public address of the key raspi_7:   0xeDBdfe609c37D454c954627fb8319022418DEFCc
+Public address of the key raspi_8:   0xf67C5753c77A962012e11Ad25eFe7706E2Fac776
+Public address of the key raspi_9:   0x8378EB4C01E1d6f5452A82Ab41ac191f67e4f751
+Public address of the key raspi_10:   0x3Bd9C57eD9c690F21fc00e6bad7466692677E506
+Public address of the key raspi_11:   0xA10d183eF70AfdC844cA247af1b4f5faf72d3ed3
+Public address of the key raspi_12:   0x137811D9E27037272620b0A2f59D4d7FfEF39530
+Public address of the key raspi_13:   0x04CF262fF49a9B629dEa4D4628BBFE84832f7B20
+Public address of the key raspi_14:   0x60F7C53D8b74E048548FC1553f857aA7798733DE
+Public address of the key raspi_15:   0x0a6Fcb92e66c1E1c9CA362B1DDe371228620d20A
